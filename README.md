@@ -1,2 +1,2 @@
 # Image-manipulation
-Add logo image inside an image using python
+Add logo inside an image using python
