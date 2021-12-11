@@ -1,0 +1,4 @@
+tqdm==4.62.3
+python-pptx==0.6.21
+Wand == 0.6.7
+pytest==6.2.5
